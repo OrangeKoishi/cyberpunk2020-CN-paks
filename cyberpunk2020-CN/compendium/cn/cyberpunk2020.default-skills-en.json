@@ -1,0 +1,276 @@
+{
+  "label": "默认技能：CN",
+  "folders": {},
+  "entries": {
+    "07VLrqRBJMQH1z1z": {
+      "name": "数学"
+    },
+    "0STIaPbLnIJ3mYln": {
+      "name": "低温仓操作"
+    },
+    "1wk36QfemxoUrv8w": {
+      "name": "生物学"
+    },
+    "2E3HjGR4mpZ9JvSb": {
+      "name": "采访"
+    },
+    "2PPqkzLtIHq4M4CX": {
+      "name": "会计"
+    },
+    "2XH4RXV6eJsxoald": {
+      "name": "躲藏/规避"
+    },
+    "2s2SKbYKsvtki3TO": {
+      "name": "械斗"
+    },
+    "35jlHqImFeL7raFt": {
+      "name": "说服与巧言"
+    },
+    "3XW0cvJwEaj7w33x": {
+      "name": "手枪"
+    },
+    "4DcaO3UAAv2wJE50": {
+      "name": "武术：蔡李佛"
+    },
+    "4w7nTNd7RhdcbOu4": {
+      "name": "表演"
+    },
+    "4ylTN4krm7fhMYJv": {
+      "name": "人类感知"
+    },
+    "4zY4Vu27ewxGP9Bf": {
+      "name": "赌博"
+    },
+    "6MnKnewhYaiaWjUK": {
+      "name": "威吓"
+    },
+    "7j6LqZw4yDurBO1c": {
+      "name": "系统知识"
+    },
+    "8B6NrDBYH64DlIUz": {
+      "name": "股票市场"
+    },
+    "8gHJI17zyBiBuwp5": {
+      "name": "教育与常识"
+    },
+    "8yMPXl1XrGc5DWrh": {
+      "name": "物理学"
+    },
+    "BfsJtNHg1rAIgAev": {
+      "name": "个人仪容"
+    },
+    "CEdR7X6uk8OsUW8M": {
+      "name": "武器制造"
+    },
+    "E8XJt0vAzvlOspLU": {
+      "name": "武术：跆拳道"
+    },
+    "F0rJbDVwYHsdajJd": {
+      "name": "地质学"
+    },
+    "F5QisKOGQp77I964": {
+      "name": "舞蹈"
+    },
+    "Ft49pPt6Fu3rpQJq": {
+      "name": "击剑"
+    },
+    "Fzmxyqm5SJhnkhFR": {
+      "name": "服装与风格"
+    },
+    "G1ZOnTj4dXFQUYFg": {
+      "name": "步枪"
+    },
+    "GKEJdLRhg1TUeWbm": {
+      "name": "旋翼技术"
+    },
+    "GZtVOGgtxv8CCuuz": {
+      "name": "武术：摔跤"
+    },
+    "GqEJ5WAwvYSJ6U0j": {
+      "name": "摩托车"
+    },
+    "Gy7bs7ngnqLTSvnN": {
+      "name": "动物学"
+    },
+    "HOA3XTsjqpVxWZza": {
+      "name": "教学"
+    },
+    "HQ4kR8fP3Itquse6": {
+      "name": "驾驶：飞艇"
+    },
+    "IU0oTzMUQdKFEhBS": {
+      "name": "急救"
+    },
+    "IWAr3E5vpS8qFzZS": {
+      "name": "闪避与逃脱"
+    },
+    "JCPoKgTMWUbOhJXI": {
+      "name": "基础技术"
+    },
+    "JtA82aiEfaiKgkt4": {
+      "name": "武术：空手道"
+    },
+    "KAD6GBbuPl3lwFJt": {
+      "name": "诊断疾病"
+    },
+    "KceQaX1FLMvIwXig": {
+      "name": "伪造"
+    },
+    "NUtXBg1TOq49mgnj": {
+      "name": "潜行"
+    },
+    "NppBZfDGn1X1K0r9": {
+      "name": "驾驶（汽车）"
+    },
+    "Ntu1h5bXoRl9O8M9": {
+      "name": "伪装"
+    },
+    "OQQiLYJCPeqtyPJ1": {
+      "name": "冲锋枪"
+    },
+    "Pg1Pb6bQCGSgI2xc": {
+      "name": "赛博技术"
+    },
+    "Q5Nq1XC0IFHU9Az8": {
+      "name": "编程"
+    },
+    "Q9aGl9B0gfcUykCh": {
+      "name": "绘画"
+    },
+    "R4dTcTyZSnF7Gph2": {
+      "name": "驾驶：旋翼机"
+    },
+    "S42KM8v8jicHpZ7P": {
+      "name": "领导力"
+    },
+    "SeJfW93RvzORatnw": {
+      "name": "电子学"
+    },
+    "SeOltIy7UECT9wZq": {
+      "name": "扒窃"
+    },
+    "TFWtoRtYFaqD0dvl": {
+      "name": "气垫载具技术"
+    },
+    "TH0eD2RtuS82FnlV": {
+      "name": "作曲"
+    },
+    "U7lhKboDQnnytPIe": {
+      "name": "武术：柔道"
+    },
+    "Uqm8bRDpVh3sSdZt": {
+      "name": "操作重型机械"
+    },
+    "V67rpMxivHDlXVaP": {
+      "name": "社交"
+    },
+    "VP45FA534hCM3PdM": {
+      "name": "游泳"
+    },
+    "VYOhfX3Ksq19fKov": {
+      "name": "跟踪/追迹"
+    },
+    "Vp6Yg5T618CrvzgK": {
+      "name": "药物学"
+    },
+    "WotYfaW9pqhl7S6N": {
+      "name": "魅惑"
+    },
+    "YN2g1fSSqYVPJej0": {
+      "name": "力量壮举"
+    },
+    "ZCnRa590mHEV6UBX": {
+      "name": "武术：法国踢腿术"
+    },
+    "aHJuJ7WvkUOmCyVo": {
+      "name": "射箭"
+    },
+    "aMpWKwdKl1m4k9Py": {
+      "name": "爆破"
+    },
+    "ankn6gB6NS5MbGfj": {
+      "name": "野外生存"
+    },
+    "bpUt85R2vBMGy9Rx": {
+      "name": "航空技术"
+    },
+    "bwhkDu4H6STAvNVA": {
+      "name": "驾驶：矢量推力载具"
+    },
+    "cEkurqZkCBf5tcfw": {
+      "name": "人类学"
+    },
+    "dyNSfYL70wvvvFKr": {
+      "name": "摄影与电影"
+    },
+    "f9JsVi0JgYzpitgf": {
+      "name": "演奏乐器"
+    },
+    "fE28aqLFDyHmDgYU": {
+      "name": "演讲术"
+    },
+    "ffkUpbGCBuGFr75q": {
+      "name": "耐力"
+    },
+    "fuNxSa7eVME1k9C3": {
+      "name": "审讯"
+    },
+    "g75H0sMFUSaRIXfe": {
+      "name": "武术：拳击"
+    },
+    "gULme1P5CR8rXXIh": {
+      "name": "体育运动"
+    },
+    "gqlDxwD8yGDBGxFt": {
+      "name": "重型武器"
+    },
+    "hJsbE1MGbFpY4lyi": {
+      "name": "武术：卡波耶拉"
+    },
+    "i8qoUwZ5jI9KAZeK": {
+      "name": "徒手格斗"
+    },
+    "jBfPdSDGwvIEq66p": {
+      "name": "察觉/注意"
+    },
+    "jgvFY5BWVsanP0md": {
+      "name": "武术：泰拳"
+    },
+    "lEo2rOVOOSIl3np3": {
+      "name": "驾驶：固定翼飞机"
+    },
+    "lmLab0Y2Ao3oTyP1": {
+      "name": "电子安保"
+    },
+    "my9IJnLduVckYLwg": {
+      "name": "开锁"
+    },
+    "nxLMtbuRZPYcnasG": {
+      "name": "赛博平台设计"
+    },
+    "oeXfrhKtdtuxn5dx": {
+      "name": "武术：合气道"
+    },
+    "qMP523mVqJxhg3D6": {
+      "name": "街头知识"
+    },
+    "rE9y0VP69MW03CqA": {
+      "name": "历史"
+    },
+    "rx5UxqZNiEgTspKk": {
+      "name": "图书馆检索"
+    },
+    "svx86NhUYhqVlLNw": {
+      "name": "抵抗拷问/药物"
+    },
+    "vHt5AnwETpWCVXZu": {
+      "name": "化学"
+    },
+    "vdzNPfVX5f6tuSdv": {
+      "name": "植物学"
+    },
+    "x5mxWMFyRWHg5lEV": {
+      "name": "武术：形意拳"
+    }
+  }
+}

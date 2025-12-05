@@ -1,0 +1,36 @@
+{
+    "label": "医疗设备",
+    "folders": {},
+    "entries": {
+      "7vn1t7tHTeymNS3D": {
+        "name": "低温罐"
+      },
+      "BiAqHo6dz6gxuX9I": {
+        "name": "气动注射器"
+      },
+      "HJNzyQuRoyCdn6Qf": {
+        "name": "医疗包"
+      },
+      "I2c4U3FtntrJCIEl": {
+        "name": "急救贴片"
+      },
+      "W5JtUcVzmkXUJZj2": {
+        "name": "手术包"
+      },
+      "bdF2OHTHdRpVijgU": {
+        "name": "药物分析仪"
+      },
+      "fA02aOWaC6JRuWg8": {
+        "name": "急救箱"
+      },
+      "fTe1XWR1z4lsaGzs": {
+        "name": "皮肤缝合器"
+      },
+      "ng1CiVk4JtWHIxZB": {
+        "name": "喷雾皮肤"
+      },
+      "oTl9WjtAxnwI2wly": {
+        "name": "医疗扫描仪"
+      }
+    }
+}

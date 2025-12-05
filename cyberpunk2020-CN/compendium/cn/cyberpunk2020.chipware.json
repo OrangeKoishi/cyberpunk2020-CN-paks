@@ -1,0 +1,615 @@
+{
+  "label": "芯片",
+  "folders": {},
+  "entries": {
+    "04f9y9E6to414ddF": {
+      "name": "驾驶 (飞艇) +3"
+    },
+    "04mZBtm1ZoZKAk4Q": {
+      "name": "植物学 +1"
+    },
+    "08NsG7mzu99Gosht": {
+      "name": "特殊行动芯片"
+    },
+    "0TGsbXMPpMxTnvUG": {
+      "name": "视觉识别芯片"
+    },
+    "11oOsstFH5OjoMbb": {
+      "name": "伪装 +1"
+    },
+    "1IN4C0hFwxKxhceP": {
+      "name": "沙格斯·汗"
+    },
+    "1MjwGbjcNcDsNJPO": {
+      "name": "开锁 +2"
+    },
+    "1S8kFZ6zk8ZZ87q1": {
+      "name": "皮下调制槽"
+    },
+    "1nDz96V6JWajDAfE": {
+      "name": "驾驶 (固定翼) +3"
+    },
+    "1q7syffoITLrlktx": {
+      "name": "驾驶 (旋翼机) +3"
+    },
+    "28vaLwVeTK7gD945": {
+      "name": "重武器 +2"
+    },
+    "2HhCdu1AdPPfhGdi": {
+      "name": "双巧手芯片"
+    },
+    "2IjmEO0HuaAucdrD": {
+      "name": "物理学 +1"
+    },
+    "2bnxWIbIoIUpfxdW": {
+      "name": "植物学 +2"
+    },
+    "3909X6fLFh6zcymP": {
+      "name": "冲锋枪 +2"
+    },
+    "3MWJJlgAsDhQydgW": {
+      "name": "驾驶 (旋翼机) +2"
+    },
+    "4MbfsFcv8JXfBoec": {
+      "name": "游泳 +2"
+    },
+    "4qSIFjtBFdwS8lPc": {
+      "name": "驾驶 (矢量推进载具) +2"
+    },
+    "543wJatL9cDGM6UZ": {
+      "name": "心灵游戏"
+    },
+    "59VkPby5JNmbwUde": {
+      "name": "曲奇切割者"
+    },
+    "5imfTTANeGJONVyG": {
+      "name": "内存压缩"
+    },
+    "6bZsfhjE1aHSxM1E": {
+      "name": "语言(任选) +3"
+    },
+    "6yV2w1eWvIu8StFX": {
+      "name": "演奏乐器 +3"
+    },
+    "75JxoJ47ZoonzDG7": {
+      "name": "演奏乐器 +1"
+    },
+    "7BHztq9lg46GiPAS": {
+      "name": "飞车技术 +1"
+    },
+    "7DNUQwZr4dINDP2v": {
+      "name": "武器匠 +1"
+    },
+    "7YQvzDODRlFxDzTX": {
+      "name": "基础技术 +3"
+    },
+    "7rKRjvRZ6P8Y7XHH": {
+      "name": "旋翼机技术 +1"
+    },
+    "7rVk6bSW1U1xyUyO": {
+      "name": "武术(任选) +1"
+    },
+    "8VfUKNDIl4oxti1d": {
+      "name": "驾驶 (固定翼) +2"
+    },
+    "8ltW833G96Heafm5": {
+      "name": "手枪 +2"
+    },
+    "8x8kvwaKQBH80aWN": {
+      "name": "航空技术 +2"
+    },
+    "8xfdtt50bLdIgPdP": {
+      "name": "电路学 +1"
+    },
+    "96AiY8Bs8kVRKwu5": {
+      "name": "伪装 +3"
+    },
+    "97j6CRk76dkkQHtD": {
+      "name": "械斗 +2"
+    },
+    "9Qf9iM2NY0TANdb5": {
+      "name": "步枪 +2"
+    },
+    "9z9nbQdifNCgKShX": {
+      "name": "完美士兵"
+    },
+    "A9tL7TistSvDVeAU": {
+      "name": "商务旅行芯片"
+    },
+    "AMoslS3YUfUfwfSR": {
+      "name": "编程+2"
+    },
+    "AQYcEwM4NHsc9mV6": {
+      "name": "重武器 +1"
+    },
+    "B2fFnTwuquQmDSU3": {
+      "name": "剑术 +2"
+    },
+    "BNU3JrAsS5LiuJXQ": {
+      "name": "语言(任选)+2"
+    },
+    "C6xQu1gsmPdf6nqt": {
+      "name": "武器匠 +3"
+    },
+    "D3EsKseppZ9xtge7": {
+      "name": "口吃芯片"
+    },
+    "DKzCdMUxcJizZwxb": {
+      "name": "舞蹈 +1"
+    },
+    "DWrUl21qDYfBZ0NB": {
+      "name": "伪装 +2"
+    },
+    "DvPm2nUb7y7cfqc0": {
+      "name": "飞车技术 +2"
+    },
+    "EpMKKktKWnPCgmSH": {
+      "name": "扒兜 +3"
+    },
+    "Ez9tcEFRZtWZODPo": {
+      "name": "射箭 +2"
+    },
+    "EztVGMwoLSkTb2Od": {
+      "name": "基础技术 +2"
+    },
+    "F65uyr5jXizpicXd": {
+      "name": "制药 +3"
+    },
+    "FjMBzufkEQuWoTX7": {
+      "name": "摩托车 +3"
+    },
+    "GOAJDVDej8n3UskJ": {
+      "name": "独立行动芯片"
+    },
+    "GdGjGPto5xdu5ZyM": {
+      "name": "急救 +3"
+    },
+    "GhKhDRjcboScOomh": {
+      "name": "证券交易 +1"
+    },
+    "GqE0PooZABdnD7it": {
+      "name": "驾驶 +3"
+    },
+    "HAjp5CxYMmoVYONb": {
+      "name": "手枪 +3"
+    },
+    "Hl5M5AHy75HuHnJb": {
+      "name": "爆破 +2"
+    },
+    "HztBcVU5oYGgA7JL": {
+      "name": "语言(任选) +1"
+    },
+    "IRlaZOCaRVhaoGM6": {
+      "name": "地理学 +1"
+    },
+    "Ich1HtvgUsMcRjoR": {
+      "name": "驾驶（矢量载具） +3"
+    },
+    "JAhyxF7nEDvfNbBa": {
+      "name": "最佳爱人芯片"
+    },
+    "JJ6YQ4iQRA60SKZG": {
+      "name": "急救 +1"
+    },
+    "JP4eNnUjtWxfCwzV": {
+      "name": "化学 +2"
+    },
+    "JPAUruNKKSncYaAD": {
+      "name": "剑术 +1"
+    },
+    "JPwP8TlJ9PtIL8xC": {
+      "name": "安全芯片"
+    },
+    "JeJf6jn1vhTdLdTR": {
+      "name": "制药 +1"
+    },
+    "Jq24KfQUsoZIPbTN": {
+      "name": "伪造 +1"
+    },
+    "K76MBeIprUbdkApJ": {
+      "name": "野外生存 +1"
+    },
+    "KRGdfciWZEZE2jmU": {
+      "name": "历史学 +3"
+    },
+    "KVVdfjBAOz1LxbUS": {
+      "name": "教育&通识 +3"
+    },
+    "Kyck2kVWcfmSKH6C": {
+      "name": "证券交易 +3"
+    },
+    "LoQMh9sQxN3n9pdP": {
+      "name": "动物学 +3"
+    },
+    "MDMYeGbs5yOZgk5y": {
+      "name": "械斗 +3"
+    },
+    "MKEZEZeQhPNiBx1h": {
+      "name": "摩托车 +1"
+    },
+    "MNAuRHZ4Ek99ITaT": {
+      "name": "动物学 +1"
+    },
+    "MlfvxTv1jtwIg3uE": {
+      "name": "扒兜 +1"
+    },
+    "Mt8bMM0SUeyqbcfn": {
+      "name": "赛博碟板设计 +1"
+    },
+    "NOiuvPr4hd5CSS77": {
+      "name": "会计学 +1"
+    },
+    "NjxSgaXQ2wW1SepE": {
+      "name": "增强神经反馈"
+    },
+    "NwzGpmn0ufbSiVCH": {
+      "name": "驾驶 +2"
+    },
+    "OKa9ElNDoZvPaO3L": {
+      "name": "个人打扮 +1"
+    },
+    "OSs2lashDuMhcnIS": {
+      "name": "演奏乐器 +2"
+    },
+    "OUT7YcSMYymdtb4Z": {
+      "name": "驾驶（飞艇） +1"
+    },
+    "OsUSBIQ2Gtqoa0LE": {
+      "name": "地理学 +3"
+    },
+    "P2zyoz7oIM0TMJXp": {
+      "name": "飞车技术 +3"
+    },
+    "P5TVyny9KchfQPQl": {
+      "name": "动物学 +2"
+    },
+    "PXTvhtn8iuzV0tnA": {
+      "name": "会计学 +2"
+    },
+    "Q8yBmcb09Gl34E0Y": {
+      "name": "旋翼机技术 +2"
+    },
+    "QXxJ8oK8iXllUXJU": {
+      "name": "听觉识别II芯片"
+    },
+    "QmESbWEKUqqIK2I8": {
+      "name": "旋翼机技术 +3"
+    },
+    "QrqCljF4Gg1zLIJN": {
+      "name": "爆破 +3"
+    },
+    "QxepwsfhFiKay5MW": {
+      "name": "鱼和薯条芯片"
+    },
+    "Rl4zAbrdV0fLGXPD": {
+      "name": "赛博碟板设计 +2"
+    },
+    "RtAac7mwILFQtapk": {
+      "name": "商务旅行芯片"
+    },
+    "SP9PHsRgxAv4d8Pr": {
+      "name": "航空技术 +3"
+    },
+    "STOjTIO7OJ5NwIdG": {
+      "name": "太空技术"
+    },
+    "T6yIwiVAstBL59rb": {
+      "name": "人类学 +1"
+    },
+    "T8tO43A0379z4Zxt": {
+      "name": "数字声音ID"
+    },
+    "TG1IgHF1GiHeCrwQ": {
+      "name": "数学 +3"
+    },
+    "TkVWMeFoi5ua0hqB": {
+      "name": "死亡恍惚"
+    },
+    "Tm0GonAWdGeu7LG9": {
+      "name": "射箭 +3"
+    },
+    "TqSIM5HzFF2Fji9c": {
+      "name": "赛博技术 +1"
+    },
+    "U0Jnv3FxKT4SXZFe": {
+      "name": "形状识别芯片"
+    },
+    "UM7u1eCbnP2aaXTv": {
+      "name": "个人打扮 +2"
+    },
+    "UU0RXPX0vYvXP3GG": {
+      "name": "舞蹈 +2"
+    },
+    "Uz6qQ5TwnSrZw7zR": {
+      "name": "赛博碟板设计 +3"
+    },
+    "VdsRYda0dPd7B38f": {
+      "name": "筹码先生"
+    },
+    "VuY4pGrVj9edXaW4": {
+      "name": "压力芯片"
+    },
+    "W2fm5uCkOIywnmSc": {
+      "name": "伪造 +3"
+    },
+    "WNTPDZAVkb81zrij": {
+      "name": "生物学 +3"
+    },
+    "WQpZ0USywZdngQ1p": {
+      "name": "武术(任选) +2"
+    },
+    "WjEhKzxpGXNVcz4K": {
+      "name": "暴揍芯片"
+    },
+    "WvckOJGOL87yJlAh": {
+      "name": "化学 +3"
+    },
+    "X7oO516RBp69YX8j": {
+      "name": "冲锋枪 +3"
+    },
+    "XI7RVyJWdk34Y0pT": {
+      "name": "赛博技术 +3"
+    },
+    "XIBc5Fs1jJb7Fl5i": {
+      "name": "冷冻仓操作 +1"
+    },
+    "XbEHkryDuKytNhKx": {
+      "name": "基础技术 +1"
+    },
+    "XeQkxPcziTnu7fX7": {
+      "name": "剑术 +3"
+    },
+    "XybOKqgppvkreutU": {
+      "name": "手枪 +1"
+    },
+    "Y7gNAs2WLIMIphLd": {
+      "name": "驾驶 (旋翼机) +1"
+    },
+    "YLpALpDR02VdI5ql": {
+      "name": "驾驶 (固定翼) +1"
+    },
+    "YNXdpshce8XKfNKV": {
+      "name": "历史学 +1"
+    },
+    "YRLd7jkgAUOcf3OM": {
+      "name": "衣着&时尚 +1"
+    },
+    "YjEqCcTtoXWE6CXT": {
+      "name": "电路学 +3"
+    },
+    "Z1hf1Ml5dzahfzjj": {
+      "name": "数学 +1"
+    },
+    "ZLEYvE36lkX831Fh": {
+      "name": "驾驶 +1"
+    },
+    "ZaNGhwYGCydMnnfE": {
+      "name": "游泳 +1"
+    },
+    "ZhQbiQr1xZljBo8f": {
+      "name": "重型机械操作 +1"
+    },
+    "Zl9i4QPHcgr44ZaE": {
+      "name": "加密芯片"
+    },
+    "Zo7i3k7Aq1rOgaNv": {
+      "name": "舞蹈 +3"
+    },
+    "aCsSoUsNjfugy8V4": {
+      "name": "相片记忆内存芯片"
+    },
+    "aE9XfP5An5EEpe4u": {
+      "name": "甜蜜皮拉"
+    },
+    "bPRWXBelCDtV3cbI": {
+      "name": "摩托车 +2"
+    },
+    "beiqVO0elgvICIh2": {
+      "name": "武术(任选) +3"
+    },
+    "buGNkZsI5fhA45mF": {
+      "name": "物理学 +2"
+    },
+    "bzQ9s0aGwgMxnlef": {
+      "name": "可编程芯片"
+    },
+    "cET1LoMXvFnF400H": {
+      "name": "冲锋枪 +1"
+    },
+    "cMW6MyPST9RB7XWm": {
+      "name": "编程+3"
+    },
+    "cyHbWELjmwTqptYC": {
+      "name": "速读芯片"
+    },
+    "cymnbtMCXgyc5BdF": {
+      "name": "重型机械操作 +3"
+    },
+    "d5RaFJtpwxs5kNKe": {
+      "name": "赛博技术 +2"
+    },
+    "d8nB983dAcrUNOYM": {
+      "name": "扒兜 +2"
+    },
+    "dtd5ZfGvrS7EFwo8": {
+      "name": "地理学 +2"
+    },
+    "eyHbyUaFtiPW0skz": {
+      "name": "好心情芯片"
+    },
+    "f51Bvujs7xytvpCK": {
+      "name": "冷冻仓操作 +2"
+    },
+    "f7nrv0UWbQjKDRtS": {
+      "name": "化学 +1"
+    },
+    "fDwUTqVyQixbPuOo": {
+      "name": "听觉认知I芯片"
+    },
+    "fLJ5RELX4S2o5THH": {
+      "name": "驾驶（飞艇） +2"
+    },
+    "fZ2w4T4ZwmaLFitK": {
+      "name": "伪造 +2"
+    },
+    "fcjnHMw1O3aytcft": {
+      "name": "生物学 +2"
+    },
+    "gnNinqLIAL9B7972": {
+      "name": "开锁 +1"
+    },
+    "gvEe7WwahbfyFssu": {
+      "name": "证券交易 +2"
+    },
+    "hFhjzQwqix8FneDt": {
+      "name": "梦境抑制芯片"
+    },
+    "hMQScFfxyIRTaexV": {
+      "name": "教育&通识 +2"
+    },
+    "hRc0LtFlkKGTnQtE": {
+      "name": "电子安全 +2"
+    },
+    "hj1Rx7atN3OX8DDg": {
+      "name": "导航/定位芯片"
+    },
+    "in6aAOSWwCBKrrGv": {
+      "name": "重武器 +3"
+    },
+    "j03uTrLYV2Fx1UAx": {
+      "name": "重型机械操作 +2"
+    },
+    "j78aEhFqgP4jNnJU": {
+      "name": "电子安全 +3"
+    },
+    "jfni1W3EdWJNprcs": {
+      "name": "信使芯片"
+    },
+    "k9ZUE7rkMZitLFsd": {
+      "name": "驾驶（矢量载具） +1"
+    },
+    "l5hqBAn717uTvthz": {
+      "name": "野外生存 +2"
+    },
+    "mQOr9SD3ilY3RYTQ": {
+      "name": "植物学 +3"
+    },
+    "mxtduAYGndn7udit": {
+      "name": "MRAM记忆芯片"
+    },
+    "nLwCwsq4N8i6tocv": {
+      "name": "M.O.芯片"
+    },
+    "nWRqlWwZItWeNAYU": {
+      "name": "射箭 +1"
+    },
+    "nlcEKTJaPzg61ix2": {
+      "name": "仿生模仿芯片"
+    },
+    "nx300l3Uz5OyVUQP": {
+      "name": "人类学 +2"
+    },
+    "oUvScJKfWVXPqJAG": {
+      "name": "冗余回路"
+    },
+    "ofP20S27ekUKYKGQ": {
+      "name": "电子安全 +1"
+    },
+    "owP1ri8McPPxXQmG": {
+      "name": "会计学 +3"
+    },
+    "pE7Sjyo83QriSCxz": {
+      "name": "武器大师武术芯片"
+    },
+    "pOV7iPenH9xGkbeW": {
+      "name": "编程+1"
+    },
+    "pSFk1mpxERoo1gXg": {
+      "name": "人类学 +3"
+    },
+    "pkrZFYaTCxeNj9NL": {
+      "name": "个人打扮 +3"
+    },
+    "qIHkbts0KtD5xdip": {
+      "name": "生物学 +1"
+    },
+    "qgUa7CXZmUEQ1eil": {
+      "name": "步枪 +3"
+    },
+    "qwDvRvYNtvEzXl2y": {
+      "name": "械斗 +1"
+    },
+    "qy9UxRsLOxTlA1W9": {
+      "name": "衣着&时尚 +3"
+    },
+    "r4porgeMUX6vPpcd": {
+      "name": "野外生存 +3"
+    },
+    "rBF0RoncqlRsC5lu": {
+      "name": "步枪 +1"
+    },
+    "rGiu9TBJAmowrXIm": {
+      "name": "挫败芯片"
+    },
+    "sdDogXmknwAwDaNX": {
+      "name": "冷冻仓操作 +3"
+    },
+    "smOe9Wr7uYWM0r3j": {
+      "name": "武器匠 +2"
+    },
+    "smzuWhogCkyrgy7m": {
+      "name": "电路学 +2"
+    },
+    "snV8rxDh5INooRhR": {
+      "name": "肾上腺素/内啡肽激增"
+    },
+    "srTzIYgG3QappzqG": {
+      "name": "教育&通识 +1"
+    },
+    "tFeDl2q4tdwgMJZq": {
+      "name": "“神经元组件” 睡眠芯片"
+    },
+    "tIR71vNCRcSK5N6T": {
+      "name": "制药 +2"
+    },
+    "to0WkEHlWs1yQbIc": {
+      "name": "警用视觉识别芯片"
+    },
+    "ttIZ9nFmFM3vOaRg": {
+      "name": "数学 +2"
+    },
+    "uHgS4p9vE2EPA0sz": {
+      "name": "游泳 +3"
+    },
+    "uRJ5sy31ciL5PSfN": {
+      "name": "历史学 +2"
+    },
+    "ukGv4YvsrATqJ602": {
+      "name": "航空技术 +1"
+    },
+    "uuT2bkpUBGsiXRkE": {
+      "name": "开锁 +3"
+    },
+    "uuptxd4A6KAnSoQ2": {
+      "name": "白日梦芯片"
+    },
+    "vu2Ufc1OS2GkXpp2": {
+      "name": "物理学 +3"
+    },
+    "wXsXDTBKCDq5GDKJ": {
+      "name": "衣着&时尚 +2"
+    },
+    "wgXTuoEfSci95NoQ": {
+      "name": "爆破 +1"
+    },
+    "xbARQqVNEO4Y2qlE": {
+      "name": "詹姆斯邦德"
+    },
+    "z6hj1ba2UQ6mQKeT": {
+      "name": "急救 +2"
+    },
+    "zq1C8KgnXdQWTNjt": {
+      "name": "归家芯片"
+    }
+  }
+}

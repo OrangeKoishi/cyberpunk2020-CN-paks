@@ -1,0 +1,27 @@
+{
+  "id": "cyberpunk2020-CN",
+  "title": "cyberpunk2020-CN",
+  "description": "cyberpunk2020的汉化。",
+  "authors": [
+    {
+      "name": "OrangeRain"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 13,
+    "verified": 13.344
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}

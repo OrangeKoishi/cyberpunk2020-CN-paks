@@ -1,0 +1,1446 @@
+{
+  "label": "赛博组件",
+  "folders": {},
+  "entries": {
+"0P3iRqKMfPwMwBeo": {
+      "name": "远视光学组件"
+    },
+    "14G6EiM86BwKjob8": {
+      "name": "增强视力：红外线"
+    },
+    "15P2DNN8rGBF7P0R": {
+      "name": "永久+2移动属性值增加"
+    },
+    "1Beh4FzEexoitUwR": {
+      "name": "语言眼（影像系统）"
+    },
+    "1DFttayJLRcOeS94": {
+      "name": "鼻腔过滤器"
+    },
+    "1ZIiQ3cB5glqxel6": {
+      "name": "生命扫描身体监视器"
+    },
+    "1nkiPIakcfag87fT": {
+      "name": "合成皮肤调整芯片"
+    },
+    "228IMhUfmHorqqNF": {
+      "name": "指尖催泪喷雾"
+    },
+    "2FQnVwna6sjxtKwD": {
+      "name": "分段式赛博义体支架"
+    },
+    "2FTx045q15AoVPB2": {
+      "name": "阿尔法硬骨骼增强"
+    },
+    "2iPdzr4QzklAsWDn": {
+      "name": "气动注射器"
+    },
+    "32q2BsXIyO3zzNP2": {
+      "name": "抓挠器"
+    },
+    "38LFY51j7gP5gmjT": {
+      "name": "伸缩针"
+    },
+    "39em8YDfUbk6I1tb": {
+      "name": "弹出式枪械"
+    },
+    "3Tn1tXDb4kmxQpLt": {
+      "name": "音频/视频录音器"
+    },
+    "3ZcfZquoyZgb17d8": {
+      "name": "GPS模块"
+    },
+    "3aa0WOZNTgQWSo2i": {
+      "name": "生物机械赛博义腿"
+    },
+    "3emFznzpQOib8vTX": {
+      "name": "新牙"
+    },
+    "3hKPAIsg0aY4KFLE": {
+      "name": "强化关节"
+    },
+    "3mGGaufr4KEbENJ2": {
+      "name": "科技发"
+    },
+    "3noI06HMqQWlX57L": {
+      "name": "自定义赛博手"
+    },
+    "3wug2tCfWopQrd2N": {
+      "name": "巨型爪刃（身体武器）"
+    },
+    "4gYluthCnbT7zVQQ": {
+      "name": "嗅觉增强"
+    },
+    "4ha4lrfZj16UTDCd": {
+      "name": "磁力导管点"
+    },
+    "4l7BMQPVN0IdiZ9q": {
+      "name": "紫外线抵抗"
+    },
+    "4qf9Uye3NduUWoLW": {
+      "name": "仿生肺"
+    },
+    "4wxdvs3c63eQKino": {
+      "name": "赛博义肢手电筒"
+    },
+    "58jU3dLX2vobSely": {
+      "name": "启用赛博义腿"
+    },
+    "59wrnqp24GUNHbRf": {
+      "name": "远程义眼"
+    },
+    "5F1DE2dJmeoSg0xh": {
+      "name": "多尼尔-鲍尔循环括约肌"
+    },
+    "5U4alQQ6mhaPhy1C": {
+      "name": "技能+2"
+    },
+    "5UnuXWjcxoWOSm4x": {
+      "name": "数字录音器"
+    },
+    "5bZhC1vx1EeJMmVj": {
+      "name": "皮下头骨护甲 SP8"
+    },
+    "5fJEtYRdGPk1Sj2J": {
+      "name": "真空防护光学组件"
+    },
+    "5jocdkZJJYXcbxLn": {
+      "name": "中空爪"
+    },
+    "5szoTf7NklXXvKKG": {
+      "name": "微波/EMP屏蔽"
+    },
+    "5t14zAuPdaBXLfkO": {
+      "name": "增强听力：听力放大"
+    },
+    "5uMbBVVC6J0Ef4qv": {
+      "name": "液压冲压机"
+    },
+    "5y1UFcoT6aF9hLdK": {
+      "name": "线性西格玛"
+    },
+    "65jYDqJMrLbDaLTJ": {
+      "name": "自动注射器"
+    },
+    "6CH8sBU6DboouHjt": {
+      "name": "脑舞插头"
+    },
+    "6GMRsln5Ap3TtSnW": {
+      "name": "赛菲尔伸缩式喷毒眼镜蛇"
+    },
+    "6Pq4vyMJa3XGHhAH": {
+      "name": "技能+3"
+    },
+    "6YZWh3c73DRynHoi": {
+      "name": "歧路司光学“三眼”第三只眼"
+    },
+    "6mLImJwN22OnO9Y0": {
+      "name": "生命视觉启示赛博光学组件"
+    },
+    "6nlw0wJmhdg1z9wu": {
+      "name": "储物舱"
+    },
+    "6pQqhBiLZaHxHaQh": {
+      "name": "时代广场增强型"
+    },
+ "72b0Cag1YCXfEOzi": {
+      "name": "摄像头（+1 插件）"
+    },
+    "7VhtFgngtzupgfMF": {
+      "name": "超高密度内存"
+    },
+    "7Wu1koREvUu3uEgA": {
+      "name": "移植肌肉二型"
+    },
+    "7f4ao6EZ3pb4hhMy": {
+      "name": "革命基因定制信息素-爱情"
+    },
+    "7s1kx7HDGBF2Fo4R": {
+      "name": "电锯"
+    },
+    "7uUmdHFbz3SY9yKq": {
+      "name": "赛博面部改装：双面"
+    },
+    "84GMoHFhEThjcYTi": {
+      "name": "隐藏式枪套"
+    },
+    "8BIdjkI3j2d5gZjO": {
+      "name": "LCD 屏幕显示"
+    },
+    "8Bpyt51WjRaXCLfe": {
+      "name": "线性贝塔"
+    },
+    "8PFCm4Z2pB4BaPvB": {
+      "name": "化学编织"
+    },
+    "8WWa6vib07YuYFWP": {
+      "name": "蚀刻设计"
+    },
+    "8ak5IXMChXXqb4gh": {
+      "name": "凯伦奇科夫增强件二型"
+    },
+    "95pAD6q4EZCPF5Ql": {
+      "name": "革命基因毒腺-牙齿 - 致幻/恶心/躯体"
+    },
+    "97VkPsJ6n3i21OLe": {
+      "name": "IHAG 瞬膜"
+    },
+    "9CXsUvDafTQCGmbU": {
+      "name": "触觉增强"
+    },
+    "9Ja3gVFRn2CABGWI": {
+      "name": "增强视力：望远"
+    },
+    "9LSJTh6Ru1VhcFDc": {
+      "name": "肉体安装"
+    },
+    "9Wx4EcwIZ4IxiEjd": {
+      "name": "皮肤科技徽标纹身"
+    },
+    "9e3SbztJSMogTX54": {
+      "name": "起搏器心脏"
+    },
+    "9e7tY4x9hcXqY64r": {
+      "name": "“领头羊”炫耀指甲"
+    },
+    "9l61W1JU5NMrnA7K": {
+      "name": "伞房花序植入物"
+    },
+    "9rU2GbglBr9tNgQS": {
+      "name": "苏联风格赛博义肢"
+    },
+    "9wCS11lcZOO8ukPA": {
+      "name": "击掌，亦称手掌炸弹"
+    },
+    "A0mlJoPGZOJK2ly9": {
+      "name": "鳃（淡水）"
+    },
+    "A928Ig9OHvTygNsl": {
+      "name": "频率转换器"
+    },
+    "AI0LSvTepsu4Yuzw": {
+      "name": "智能板武器链接"
+    },
+    "AJfBv2g93bYc3pCr": {
+      "name": "激光麦克风"
+    },
+    "AkV10pWRH3BUrPE0": {
+      "name": "击杀显示"
+    },
+    "AlJ8IXoqc7SGAGhU": {
+      "name": "永久+1魅力属性值增加"
+    },
+    "AmwAW1sOilOK8zrL": {
+      "name": "触手义肢"
+    },
+    "AvMtCA4R3HnSDSnL": {
+      "name": "赛博光学组件"
+    },
+    "AvqHy97sRliM6vD3": {
+      "name": "增强听力范围"
+    },
+    "BICwJ6MBRV2AXyYl": {
+      "name": "壁画的个人纳米美容仪"
+    },
+    "BKwFnPMUyvF8fg1z": {
+      "name": "高级皮层植入物"
+    },
+    "BRwlpf6NvbwOtEhF": {
+      "name": "防水"
+    },
+    "BrI89iRxkghthong": {
+      "name": "绞盘"
+    },
+    "BvcZZSFOydu7qMUN": {
+      "name": "锁定关节"
+    },
+    "ByjgAiOEAcutynOM": {
+      "name": "快速更换指尖支架"
+    },
+    "BypvF3R4KSkozjcl": {
+      "name": "触手指，可伸缩"
+    },
+    "C4jZaDb1XRJg0c7m": {
+      "name": "眼球色腺控制"
+    },
+    "C868gK04Emnui8Dm": {
+      "name": "图像增强"
+    },
+    "CCD7DxMBp3YNQNbI": {
+      "name": "触手指"
+    },
+    "CI1QVNSFzdPXwFoX": {
+      "name": "共情监视器"
+    },
+    "CfaQzWY0SgG8BPtj": {
+      "name": "赛博光学指南针"
+    },
+    "CgNWiIkDnksGvDyp": {
+      "name": "频谱赛博听觉：全向"
+    },
+    "CjbtQG7nvaA5lmnM": {
+      "name": "延伸腿部单元"
+    },
+    "Co8HvSiqa0dvFWrj": {
+      "name": "股份检查者™链接"
+    },
+    "D5uZmayiXzXXLTRM": {
+      "name": "革命基因手电筒植入物"
+    },
+    "D8sFcwa5foGrnGvL": {
+      "name": "过滤阀"
+    },
+    "DTmdUfWNmft90Yns": {
+      "name": "苏联赛博义腿"
+    },
+    "DYTyoPtR00X2C9Jq": {
+      "name": "皮下头骨护甲 SP4"
+    },
+    "EFjaaxAWk4CjyI5H": {
+      "name": "两发射击电容激光"
+    },
+    "EGaSwv8KGLlavrO8": {
+      "name": "微型视频"
+    },
+    "EHOfG6zqqaFTHIV8": {
+      "name": "肾上腺增强器"
+    },
+    "ESFnj1zjXvfKwhGn": {
+      "name": "皮下头骨护甲 SP10"
+    },
+    "EUlBTLI2WZKDdSTi": {
+      "name": "OTEC 耳阀"
+    },
+    "EbUtfhcNf28rnBiv": {
+      "name": "工具手"
+    },
+    "Ec5j4rEoTSDUkvbY": {
+      "name": "撕裂爪"
+    },
+    "EgA88D851qKgHo0D": {
+      "name": "午夜女士植入物"
+    },
+    "ErFfwnuAGPB0HCxZ": {
+      "name": "防晒阻挡器"
+    },
+"FJ5yOvIQTqM20IQo": {
+      "name": "DNA修改"
+    },
+    "FloH6xXqJ7mNA5Mk": {
+      "name": "额外扭转关节增加"
+    },
+    "FobwfjsdVc0LqZcR": {
+      "name": "触手义肢，可伸缩"
+    },
+    "FvkhGlSGPSgxESPx": {
+      "name": "科尔维特赛博义腿（高级型）作为升级"
+    },
+    "G3VaKY3xpKnxhQeu": {
+      "name": "韦尔曼"
+    },
+    "G84MbMxDERtsdNXr": {
+      "name": "切割炬"
+    },
+    "GFABJ02FUq7tBlcV": {
+      "name": "肌肉增强"
+    },
+    "GOaAlk2HfCgY9muQ": {
+      "name": "延伸手"
+    },
+    "GWnQ3KQVL6PZpedS": {
+      "name": "智能枪链接"
+    },
+    "GczNMzgO52HIsEZi": {
+      "name": "护甲"
+    },
+    "GnkbNKID1EjpVzKE": {
+      "name": "皮下头骨护甲 SP12"
+    },
+    "Go9manEx2jk02j8i": {
+      "name": "激光指示器"
+    },
+    "H7PSx0gcnKET6usp": {
+      "name": "防眩光"
+    },
+    "H9FzYxGs1qbgAWiJ": {
+      "name": "微型摄像头"
+    },
+    "HAFF2PM96a1WkrFF": {
+      "name": "声音编辑"
+    },
+    "HFFOkACKjmoBr9my": {
+      "name": "快拔枪套"
+    },
+    "HFJDWeNrCXjPy6Lz": {
+      "name": "耳后伞房植入物"
+    },
+    "HHpbdwb8gWcNjDE7": {
+      "name": "渡鸦高级生物监视器"
+    },
+    "HIqDCnebXoCnm3n3": {
+      "name": "皮下躯干护甲 SP18"
+    },
+    "HOqxftjmAPA20UB2": {
+      "name": "皮下躯干护甲 SP10"
+    },
+    "HqMgZUKOLpIJh9ct": {
+      "name": "永久+3移动属性值增加"
+    },
+    "HuQ4kUJO4LpeWlaT": {
+      "name": "打火机"
+    },
+    "I5jT46ciWO4jF1pQ": {
+      "name": "储物空间"
+    },
+    "I90J670vYjtp73Cb": {
+      "name": "罗曼诺娃赛博义腿"
+    },
+    "IGetyuKm0S5naB00": {
+      "name": "超大尺寸义肢"
+    },
+    "INUE0r0BNFPuj2k4": {
+      "name": "赛博解制器"
+    },
+    "IVZjbGFbFgupfelO": {
+      "name": "升级型皮下编织 SP6"
+    },
+    "IWdRPZeizxA6tQVx": {
+      "name": "真实皮肤覆盖层"
+    },
+    "Ih19WozMmuxGg4DZ": {
+      "name": "贝塔硬骨骼增强"
+    },
+    "IqX9BDgOdS3EGLue": {
+      "name": "铁锤手"
+    },
+    "IsjfCCcpPE4lcKwN": {
+      "name": "医疗模块赛博手 - 独立型"
+    },
+    "IuX0xNFWYXlYnj10": {
+      "name": "饮食螨"
+    },
+    "JBSmuC0bZfrzUKX9": {
+      "name": "微型视频"
+    },
+    "JEbPsNxQTbqbCmzV": {
+      "name": "假人面罩"
+    },
+    "JJQxF1pH3sixjEeH": {
+      "name": "振动/嗡嗡手"
+    },
+    "JNhdO6o73hylJLga": {
+      "name": "听力放大"
+    },
+    "JRjY6m94O54GmMas": {
+      "name": "抛物线麦克风"
+    },
+    "JUoOR0Kupu1U8uSi": {
+      "name": "躯干板"
+    },
+    "JgyOgH1zNwhtBUPa": {
+      "name": "大铠/赛菲尔新喉"
+    },
+    "Jr9T30d50LTM6tQQ": {
+      "name": "尼康双缝瞳孔"
+    },
+    "Jzrq7fLnhbmL2UsW": {
+      "name": "增强肺二型"
+    },
+    "KECvvenn1Jwn0AP6": {
+      "name": "全身板甲"
+    },
+    "KJXceVSnwxRYqgXq": {
+      "name": "延伸型鲨牙特制型"
+    },
+    "KNJYYNjJFD3BlLp4": {
+      "name": "紫外线阻挡器"
+    },
+    "KOdToPly0PKUWmAn": {
+      "name": "皮下躯干护甲 SP8"
+    },
+    "KPFcKJldgBjHgBw5": {
+      "name": "T-Maxx 2 赛博肝"
+    },
+    "KQ2dyJJBbRn9OtLt": {
+      "name": "标准手"
+    },
+    "KUTBjaSFBy51YBlY": {
+      "name": "闪光灯"
+    },
+    "KcgjmoD9yD95kBVe": {
+      "name": "塑料覆盖层"
+    },
+    "KhPBJFSnQ9dqkN5T": {
+      "name": "耐力"
+    },
+    "KmMRmafCZh6lrUSQ": {
+      "name": "永久+1移动属性值增加"
+    },
+    "L3Ht4W3t2kfi3Ih0": {
+      "name": "追踪设备"
+    },
+    "LGEGt30R947poyV5": {
+      "name": "防眩光瞬膜"
+    },
+    "LIMJDnnYCrh30Fn5": {
+      "name": "永久+2魅力属性值增加"
+    },
+    "LOCvUXXqo5uFmMn5": {
+      "name": "山德维斯坦加速增强件"
+    },
+    "LZAVPSGbuFnN0X5r": {
+      "name": "面甲"
+    },
+    "LjDNCn2g7lk8zJWm": {
+      "name": "声音合成器"
+    },
+    "LzvmgvjTcBqf5z2B": {
+      "name": "湿接线"
+    },
+    "MV3H6ic0CL25UNVd": {
+      "name": "100型接口插头"
+    },
+    "Max25DOl9Rcvg37Y": {
+      "name": "电击握把"
+    },
+    "MbGaQIAJ32WOzTWe": {
+      "name": "皮下头骨护甲 SP14"
+    },
+    "MshCVvHs3foIEn5c": {
+      "name": "永久+1反应属性值增加"
+    },
+    "MyJMAIrEVtsq4c0n": {
+      "name": "武器支架与链接"
+    },
+    "NDPG6tUYfF4GN5My": {
+      "name": "苏联赛博听觉组件"
+    },
+    "NEr0RS53Klz7YMjk": {
+      "name": "气体喷射"
+    },
+    "NLxUaTwc6xtk9Gof": {
+      "name": "军刀血清 RNA 修改"
+    },
+    "NSTjqlrfLM6oZLeS": {
+      "name": "歧路司光学赛博光学干涉测量系统"
+    },
+    "NW6a3mKzX4IdaCkr": {
+      "name": "赛菲尔喷毒眼镜蛇"
+    },
+    "NpOACgBGfKqubbbU": {
+      "name": "通用产品外骨骼（A系列）"
+    },
+    "NxUXYEsmdRAwaSDH": {
+      "name": "降低氧气需求"
+    },
+    "O7pMh0iIQNFKaHiG": {
+      "name": "皮下躯干护甲 SP14"
+    },
+    "OCGxKgOhybAWSYvd": {
+      "name": "赛博酒吧腿"
+    },
+    "OEdz7US5M6QLdthk": {
+      "name": "升级型皮下编织 SP16"
+    },
+    "OKEMvZRj3ECADQRM": {
+      "name": "数字录音器"
+    },
+    "OLnmO8cNfiDhd6cW": {
+      "name": "皮肤科技情绪皮肤"
+    },
+    "OPqs7CUWewz2Mzvf": {
+      "name": "盐水鳃"
+    },
+    "OYjZKikf0wLiXpIS": {
+      "name": "仿生阑尾"
+    },
+    "Onb1qplHeJ3PcTcp": {
+      "name": "陀螺稳定器"
+    },
+    "OqOKwGQ4af61Ucch": {
+      "name": "磁力手/脚"
+    },
+    "PGSQ5CXATS4wruv5": {
+      "name": "赛博蛇"
+    },
+    "PIOY5fUaIbz8qr36": {
+      "name": "前置光学支架"
+    },
+    "PKoJy1uvhb3fMh1m": {
+      "name": "下颚（大颚）"
+    },
+    "POMGj69ON3zmGXoQ": {
+      "name": "“领头羊”激情指甲"
+    },
+    "PoZtXFoxcncAEw2Y": {
+      "name": "纳米外科医生"
+    },
+    "PxDUWmTlRbEw4JLc": {
+      "name": "反应增强"
+    },
+    "Q6dbhjP5lI1rMpBy": {
+      "name": "革命基因定制信息素-易骗"
+    },
+    "Q6wZs4xgCl2xsGJj": {
+      "name": "湿驱访问链接"
+    },
+    "QBc9PRGpNCdVITNv": {
+      "name": "手电筒频闪"
+    },
+    "QEAfZMDe4vD2EjI1": {
+      "name": "IEC 毒液手"
+    },
+    "QWjUkP12bGscWrz2": {
+      "name": "多尼尔-鲍尔神经桥"
+    },
+    "QvDwqelYOtORTNnN": {
+      "name": "自推榴弹"
+    },
+    "RDCTBZMFBr97X8iz": {
+      "name": "触手义肢鞘"
+    },
+    "REpTpQ8k1fUiUOzD": {
+      "name": "狼爪"
+    },
+    "RLFXJTPE06z8IrsN": {
+      "name": "快速更换支架"
+    },
+    "RP2iuDNPK0EKlhdg": {
+      "name": "钉锤手"
+    },
+    "RajsWKa728LRN1Gr": {
+      "name": "独立赛博手"
+    },
+    "RgACjXvdEXhEJDvC": {
+      "name": "疼痛编辑器"
+    },
+    "SAW2Cjv7QS9z6RSl": {
+      "name": "真空编织"
+    },
+    "SBBvPt5U8168wuzK": {
+      "name": "T-Maxx 回盲瓣虹吸管"
+    },
+    "SBfg8MBpXU7FkDFM": {
+      "name": "增强抗体"
+    },
+    "SI0WbPQLRKQYqQPR": {
+      "name": "皮肤手表"
+    },
+    "SIUDnA5V2TsKt8iE": {
+      "name": "照明弹"
+    },
+    "Sd6XAX8BesFoISHU": {
+      "name": "赛博解制器链接"
+    },
+    "StKesq0UYILFNVbA": {
+      "name": "化学皮肤"
+    },
+    "SxOJVQPplMaSGKtx": {
+      "name": "标准赛博义腿"
+    },
+    "T7uGBTZgaeB7NKIm": {
+      "name": "生物监视器"
+    },
+    "TWlhrjGbUWVQXphH": {
+      "name": "闪避球"
+    },
+    "TYQA5gbsiFfSv3bY": {
+      "name": "移植肌肉一型"
+    },
+    "TfvE8NWRHOZNr7JT": {
+      "name": "革命基因毒腺-手 - 致幻剂"
+    },
+    "TgGvkW0ioP4olMiy": {
+      "name": "苏联赛博光学组件"
+    },
+    "ToQjQu7OlUOLjij5": {
+      "name": "戴纳拉尔内骨架（轨道型）"
+    },
+    "U44X5aYdM5lzJTK4": {
+      "name": "愉悦内啡肽触发器"
+    },
+    "U4SXz0DYgiCPAJvn": {
+      "name": "永久+4移动属性值增加"
+    },
+    "U5ZvLtyBtuSpTTYp": {
+      "name": "皮下护甲"
+    },
+    "U8g5kuEVr1AbI0Lr": {
+      "name": "标准足"
+    },
+    "UJDjrAFWuULcTFyL": {
+      "name": "苏维尔赛博义腿"
+    },
+    "UbOS0bmVIuIC2neL": {
+      "name": "换档触觉"
+    },
+    "UixKRuF5bn59CD3c": {
+      "name": "血肉编织"
+    },
+    "V0EqKSFZ1qL6eEKR": {
+      "name": "切片和切块"
+    },
+    "VGwTALzaHpcKofXM": {
+      "name": "光学护盾选项"
+    },
+    "VIuOSCZekwBpBiiF": {
+      "name": "弹出式手弩"
+    },
+    "VN73wvZAOo6oV3Jk": {
+      "name": "窄束无线电链路"
+    },
+    "VV8X37sNToUj464L": {
+      "name": "弹出式细针枪"
+    },
+    "VVQIm9JLlGtcFh53": {
+      "name": "水再过滤系统"
+    },
+    "VZ5gNr3YjOG6B43V": {
+      "name": "颜色转换"
+    },
+    "VZLP8a5nyIMrdKHG": {
+      "name": "模块化手"
+    },
+    "Vc3lAeIivlixHygl": {
+      "name": "守望人"
+    },
+    "Vei3AMF2KJP4hYqk": {
+      "name": "军科赛博医生应急医疗包"
+    },
+    "Vg33kDXF2VZlqX1K": {
+      "name": "闪电战电弧投射器"
+    },
+    "VlSOSY3wDsUWqJKn": {
+      "name": "伸缩式吸血鬼/鲨牙"
+    },
+    "W9lGAar8fYg3SYZh": {
+      "name": "肌肉骨骼花边"
+    },
+    "WNIRfO0Tgur6ymLS": {
+      "name": "接线头盔单元"
+    },
+    "WPWyNQZmHHX9PjI9": {
+      "name": "火焰喷射器"
+    },
+    "WTvMan0I5jbhQASG": {
+      "name": "泽塔科技身体电脑"
+    },
+    "WdE0SLOXaCxzF2fD": {
+      "name": "尖刺手"
+    },
+    "XEJR3ku9gdLkFoAq": {
+      "name": "苏联赛博义肢"
+    },
+    "XG6ffmsWnkUWNkcW": {
+      "name": "紫外线"
+    },
+    "XKub6Y3CcY61Y8hf": {
+      "name": "DNA制备绘图"
+    },
+    "XS2jnysuhVmEePHP": {
+      "name": "辐射编织"
+    },
+    "Xf9N8yswXWLkh9v3": {
+      "name": "高级肌肉骨骼花边二型"
+    },
+    "Y43oteBsNGGb26aT": {
+      "name": "扰频器"
+    },
+    "Y4E94yWBlPsrQ8zI": {
+      "name": "爬行者监视赛博手"
+    },
+    "YBS9vFZX14R6bwk0": {
+      "name": "微光视野"
+    },
+    "YVWTOwRhoDCVNUku": {
+      "name": "生物机械赛博光学组件"
+    },
+    "YbA4EUFphbKytLsI": {
+      "name": "蜂窝式赛博解制器"
+    },
+    "Yeg8loLX8D8lJWSa": {
+      "name": "热能编织"
+    },
+    "YhcymINPLTZGwTPW": {
+      "name": "增厚肌原纤维"
+    },
+    "YnoSLEScxKQS01kn": {
+      "name": "分散式心脏"
+    },
+    "YpD6nMICChtfwuKd": {
+      "name": "赛博声带“音箱变音器”"
+    },
+    "Ypp4ocFzfmgRe3o1": {
+      "name": "通用链接"
+    },
+    "Z0Ic6ktUNjKJweMD": {
+      "name": "革命基因定制信息素-混乱"
+    },
+    "Z3MtbdXJtdor3fjq": {
+      "name": "救生员皮肤编织"
+    },
+    "Z3W7DC2NyBE1S3Cj": {
+      "name": "Pacesetter2000 心脏"
+    },
+    "Z6gZoo8sVr8m1DTS": {
+      "name": "鞭子"
+    },
+    "ZAgJE8utIokUZtNx": {
+      "name": "生物机械义肢"
+    },
+    "ZCcxYK3Hd9yJC9wy": {
+      "name": "通用产品外骨骼（B系列）"
+    },
+    "ZNQwBhJbGgImAMkI": {
+      "name": "高级肌肉骨骼花边一型"
+    },
+    "ZPYXXzR9Uchj3sR5": {
+      "name": "铁锤手"
+    },
+    "ZPcdKtBpHjgTVfq8": {
+      "name": "醉酒大师"
+    },
+    "ZWbDO3kiDeOzkVbe": {
+      "name": "科尔维特赛博义腿（高级型）"
+    },
+    "ZWiq3AsKXkimZtFU": {
+      "name": "神经超低频收发器"
+    },
+    "ZYxilvCku40TLgfA": {
+      "name": "热皮肤"
+    },
+    "ZeKng0a45wE8l9tG": {
+      "name": "升级型皮肤编织 SP10"
+    },
+    "ZjhRESlVVg9kpjQ9": {
+      "name": "戴纳拉尔网状手"
+    },
+    "a9TilyFBUdaP8cSo": {
+      "name": "宽频无线电扫描仪"
+    },
+    "aOkI5aEbijrMyqAm": {
+      "name": "冷冻器"
+    },
+    "adP2yHTLpvc07RLj": {
+      "name": "抓握足"
+    },
+    "aeiFWzAH0ZSYOjyy": {
+      "name": "标准赛博义肢"
+    },
+    "amWf6UN9Z6GHwlAP": {
+      "name": "光学护盾"
+    },
+    "asTrPBcLOmHxBmNf": {
+      "name": "革命基因毒腺-牙齿 - 生物毒素 I"
+    },
+    "atR26dOPGVwYD9nv": {
+      "name": "红外/紫外手电筒"
+    },
+    "b7AjewJuFjS953KU": {
+      "name": "德林加"
+    },
+    "bR5KO3ShSj4evXOI": {
+      "name": "忽略疼痛"
+    },
+    "bV8VFl3DBedEmFfP": {
+      "name": "空心吸血鬼牙"
+    },
+    "bXJ5RZEKm4XATlVH": {
+      "name": "抗瘟疫纳米技术"
+    },
+    "bgCK2vGTXzSfIXRN": {
+      "name": "吸血鬼牙 - 犬齿"
+    },
+    "cBkgtvtOeVwVlEDX": {
+      "name": "皮下躯干护甲 SP6"
+    },
+    "cTRBceCh81wJdlNL": {
+      "name": "快速更换支架"
+    },
+    "cTxRTwPNHBuruo2Y": {
+      "name": "线性欧米茄"
+    },
+    "ca7VaUF1xOM82A1K": {
+      "name": "钢丝钳/剪刀"
+    },
+    "cd3iWdZAbPrNNQTH": {
+      "name": "光纹身"
+    },
+    "ctR5VpjftrrdGrSQ": {
+      "name": "锁定"
+    },
+    "czRXny4nN2n6ZeoD": {
+      "name": "带屏幕的 GPS 模块"
+    },
+    "d3nT14IM5p3j97mg": {
+      "name": "T-Maxx 赛博肝"
+    },
+    "d7FSBBbQ5jpUyLWA": {
+      "name": "无线电链接"
+    },
+    "dCqcE7WRXw80luY4": {
+      "name": "技能+1"
+    },
+    "dmt0HWrFee6PRJS0": {
+      "name": "轨道水晶赛博义腿"
+    },
+    "dnImmnrh9h8x9mI5": {
+      "name": "时代广场跑马灯"
+    },
+    "dr08HrUWsSaP27B2": {
+      "name": "赛博肺"
+    },
+    "e303Ub5H6ppne7rz": {
+      "name": "飞镖枪"
+    },
+    "eGkcCUyIuApBOTws": {
+      "name": "车辆链接"
+    },
+    "eQOgNomyectZZFAh": {
+      "name": "电话分接器"
+    },
+    "eXLpplQloedXOMqO": {
+      "name": "尖跟足"
+    },
+    "eY1xYmiAGyfnP7gX": {
+      "name": "尖刺！家具：头部"
+    },
+    "eYvCt1U0V1RG2knE": {
+      "name": "可变指纹"
+    },
+    "eg7nwPwfWQ4BE6Ib": {
+      "name": "言语眼（客户图像）"
+    },
+    "ej9LBbYxBHirT9K0": {
+      "name": "韦尔曼 Mk.2"
+    },
+    "etgnIhT7XAwyIHvW": {
+      "name": "超铬覆盖层"
+    },
+    "etzXfH8S8rTyBknr": {
+      "name": "尖刺！家具：腿部"
+    },
+    "euCoU8XUc7dN1b9T": {
+      "name": "里希特博士地震传感器"
+    },
+    "f9E4juFotkdsUsFP": {
+      "name": "狼牙棒喷雾器"
+    },
+    "fLA7cCVvgavisLkj": {
+      "name": "三联飞镖发射器"
+    },
+    "fPAtkYUKJdx6lX8g": {
+      "name": "N-A C 冷冻禁令生物构造"
+    },
+    "fU0KMDfzPbYSm7Kb": {
+      "name": "D-Tek 目标锁定网络"
+    },
+    "fkF5mng29EpC7nvE": {
+      "name": "水平减震器"
+    },
+    "frxdsspp6pfGMeNp": {
+      "name": "N-A C 速凝血纤维蛋白结"
+    },
+    "fsxQ8JqEtJObVdLf": {
+      "name": "合成皮肤"
+    },
+    "fzly25FjPmCNHspb": {
+      "name": "数据终端链接"
+    },
+    "g4XWkrPQ6nLXuVqO": {
+      "name": "光笔"
+    },
+    "gDXCepRfEAtwZx0y": {
+      "name": "鼻窦重建"
+    },
+    "gLNgNonWfuitIsp3": {
+      "name": "改变声音模式"
+    },
+    "gSrOUOjhFruHjfai": {
+      "name": "言语眼（基本型）"
+    },
+    "gXBFrZgkFNnuAVDL": {
+      "name": "虫眼"
+    },
+    "gbGm8DvlN4zlmEeu": {
+      "name": "滑冰足"
+    },
+    "gl1nhUIddaEN0SdS": {
+      "name": "猫爪隐形足"
+    },
+    "gljgaZhhsfRw2tFo": {
+      "name": "视频成像仪"
+    },
+    "gz3RrnP506SekovL": {
+      "name": "辐射探测器"
+    },
+    "h2GPDiK7VgJrYNZh": {
+      "name": "雷达探测器"
+    },
+    "hLUFbpY5ljrcBNHr": {
+      "name": "微型瓦尔多护腕"
+    },
+    "hWXilHIXQmt7DFud": {
+      "name": "歧路司单目视觉"
+    },
+    "hZeJOV8R4tmd2DUC": {
+      "name": "雷达传感器"
+    },
+    "hdTubKxiTQ11BCr3": {
+      "name": "升级型皮肤编织 SP14"
+    },
+    "hgKSXxT0bdabxnsq": {
+      "name": "感官扩展"
+    },
+    "hnlzxi6fjpEEtVH7": {
+      "name": "医疗模块赛博手 - 赛博义肢的一部分"
+    },
+    "hqp1XekLTwvDxuIC": {
+      "name": "光谱赛博听觉组件：外耳"
+    },
+    "i264oefxjekvVgnN": {
+      "name": "斯塔德先生性爱植入物"
+    },
+    "i40dfAdYuQS4s0II": {
+      "name": "超人疼痛编辑器"
+    },
+    "ia0I1izJUsQ7oQFW": {
+      "name": "增强肺三型"
+    },
+    "imsHKz2ooCEs5Xfr": {
+      "name": "锚定赛博足"
+    },
+    "irujxohuaP5LWGlI": {
+      "name": "激光通讯光学组件"
+    },
+    "j7lBe9QTyMTwcDTJ": {
+      "name": "催泪瓦斯喷雾器"
+    },
+    "jZXHbHneBSOQfBHj": {
+      "name": "一次性特制"
+    },
+    "jgAQuEGsaj8fykCJ": {
+      "name": "声音压力分析仪"
+    },
+    "jhjTJtl9kYNRjqGJ": {
+      "name": "N-A C 卡路里二级肠道"
+    },
+    "jo4hFU6eOxuOE2Bh": {
+      "name": "循环呼吸器/增强肺"
+    },
+    "kFGrcNTGAFolNwdc": {
+      "name": "胶囊公司赛博枕头"
+    },
+    "kKjvL34M8AGGqYhp": {
+      "name": "永久+1体质属性值增加"
+    },
+    "ka2vJX7fNxYodzKc": {
+      "name": "体重可变腔室心脏"
+    },
+    "kifoCjok6nolZ9Kz": {
+      "name": "全光谱免疫增强剂"
+    },
+    "kpxux5v7v4EWP7iB": {
+      "name": "飞镖枪"
+    },
+    "kqhFucg7eHAXiJjt": {
+      "name": "毒囊"
+    },
+    "ksNQKhJLA69OyVZi": {
+      "name": "启用赛博义肢"
+    },
+    "kuzYUXPl1XTvTwrI": {
+      "name": "圆珠笔手指"
+    },
+    "kzTeWMWACQZjJnul": {
+      "name": "赛博检测计算机"
+    },
+    "l9W2gClxQG2lxMyY": {
+      "name": "味觉增强"
+    },
+    "l9ktrA7VcwJvmwaP": {
+      "name": "可编程视网膜"
+    },
+    "lAfdzOea8xK30yV8": {
+      "name": "赛博面部重置：拼图"
+    },
+    "lH5cZIjXjo2hcSj7": {
+      "name": "Nu-Tek 电视皮肤"
+    },
+    "lIH2849czkyl7tE2": {
+      "name": "肢体链接"
+    },
+    "lNqrIKwpKnbbkZKi": {
+      "name": "骨刺"
+    },
+    "lVRV7b1v3iDY0PZb": {
+      "name": "增强嗅觉"
+    },
+    "lZG1iz5X3ru5hRZ4": {
+      "name": "皮下躯干护甲 SP 22"
+    },
+    "ldP7Mw3Zt3uzCWC2": {
+      "name": "窃听器探测器"
+    },
+    "lg4peDv01odkWohH": {
+      "name": "赛博手覆盖层"
+    },
+    "liaoMAZYcvyllU50": {
+      "name": "皮下视屏"
+    },
+    "luxYHgIiL8reGJC2": {
+      "name": "反应式身体镀层"
+    },
+    "mFkHxLldcBnBnpFi": {
+      "name": "避孕植入物"
+    },
+    "mMu0PP1JiZjrWS0N": {
+      "name": "增强视力：微光视野"
+    },
+    "mWl6cgjZjN3yl5lz": {
+      "name": "纳米听觉重建"
+    },
+    "mroUvDLW0m8i33N7": {
+      "name": "化学分析仪"
+    },
+    "n0T2xtljc5rQMOH5": {
+      "name": "大开膛（赛博义肢武器）"
+    },
+    "n9yl2P6HGUkQHas4": {
+      "name": "腿部助推器"
+    },
+    "nF81cdstGUusAstV": {
+      "name": "增强视力：颜色转换"
+    },
+    "nIsbe8Pk8b3k0WiR": {
+      "name": "皮下躯干护甲 SP16"
+    },
+    "nIxqf9f5cA5j7L1E": {
+      "name": "风帽"
+    },
+    "nNvMs7oYxU9a1R6Y": {
+      "name": "超低频天线"
+    },
+    "nQIW0cdpygOzyEIs": {
+      "name": "体重起搏器协处理器"
+    },
+    "nZ9dQDnwuXMAn6iF": {
+      "name": "开锁器"
+    },
+    "nbTMFUpYCAhIHwj2": {
+      "name": "光谱赛博听觉组件：内/外耳"
+    },
+    "nc7nSinmvzyPQK78": {
+      "name": "数字相机"
+    },
+    "nkdikBpePJR97frc": {
+      "name": "改变指纹"
+    },
+    "nmTimmW7NSE6CVnY": {
+      "name": "赛博面部重置：邪恶之眼"
+    },
+    "nwe5Q8MbybzSKguD": {
+      "name": "特征改变植入物"
+    },
+    "o1orSz1WYZi85n5d": {
+      "name": "增强视力：图像增强"
+    },
+    "oC2Znx4VqJKXvTYD": {
+      "name": "探针链接"
+    },
+    "oiZ3KTqonQpfRyGa": {
+      "name": "脑舞适配器"
+    },
+    "ojX2Fh8IqdrBm0vp": {
+      "name": "增强视力：紫外线"
+    },
+    "osbVuJfZFYCR1fgc": {
+      "name": "清除指纹"
+    },
+    "ovChyyiGv1mOAoBi": {
+      "name": "革命基因毒腺-手 - 生物毒素 I"
+    },
+    "owew6Fwgn89EiAIV": {
+      "name": "手指炸弹"
+    },
+    "pDdeLSEtwszE1ZEy": {
+      "name": "声纳植入物"
+    },
+    "pFg0dfizfmbTc5IZ": {
+      "name": "护甲覆盖层"
+    },
+    "pGZbG4xbzKrzRjdC": {
+      "name": "硬化皮肤"
+    },
+    "pniRdBtHZQ6SRxUA": {
+      "name": "声纹"
+    },
+    "ppZ3bKAHkSWExPLM": {
+      "name": "大开扰频器"
+    },
+    "pvwotjvgZrKMAfYY": {
+      "name": "生物机械赛博听觉组件"
+    },
+    "q2YZsftu47nQqtn4": {
+      "name": "皮下智能枪械链接"
+    },
+    "q8I8bdmK6BFpLw9f": {
+      "name": "永久+2体质属性值增加"
+    },
+    "qBZuO58sBE7zvcyu": {
+      "name": "基因科技的“看穿它”透明皮肤"
+    },
+    "qBm9za43TCN8HNaq": {
+      "name": "电磁屏蔽"
+    },
+    "qCMCadd6VNdUN3TA": {
+      "name": "次声波"
+    },
+    "qMuNFacegQzYYve4": {
+      "name": "氮结合剂"
+    },
+    "qPdOII1UgnVuiV3k": {
+      "name": "革命基因毒腺-手 - 恶心/躯体"
+    },
+    "qUgklB724m7a9Ptv": {
+      "name": "强力颌"
+    },
+    "qUnKgQJiStFRHpYQ": {
+      "name": "媒体工具蜂窝式电话"
+    },
+    "qbJacUIfFH5Rwfus": {
+      "name": "毒腺"
+    },
+    "qbLyEtPsQNeSLFqY": {
+      "name": "技术扫描仪"
+    },
+    "qflkbZ96xyETs9OF": {
+      "name": "改变视网膜"
+    },
+    "qiTXkPooklv9UHsI": {
+      "name": "红外线"
+    },
+    "qnBiQ7nGyhdelNIH": {
+      "name": "复制科技毒素筛查器"
+    },
+    "qx0qUrG6J1vBSex4": {
+      "name": "蜇针"
+    },
+    "r2IS19xPAKZmhmfd": {
+      "name": "回声定位系统协处理器"
+    },
+    "r2lIgPifLimAExTS": {
+      "name": "尖刺肢体覆盖层"
+    },
+    "r3L38naHrBm6v1se": {
+      "name": "模块链接"
+    },
+    "rLCoPPiA8FLcLLdm": {
+      "name": "蹼足"
+    },
+    "rnCMc86TzZjjPARt": {
+      "name": "工具足"
+    },
+    "rtmqdwfsRopUS9wP": {
+      "name": "微型导弹发射器"
+    },
+    "s1ytEkAR4J8P9jpi": {
+      "name": "双重关节"
+    },
+    "s4D3tB3dwEsVs3AE": {
+      "name": "带电导线"
+    },
+    "sEi6YjMyjBBfCBwo": {
+      "name": "利爪足"
+    },
+    "sGT6Eth8kYxfipq7": {
+      "name": "体重静脉夹"
+    },
+    "sIxq9zW5FG8DQNq3": {
+      "name": "神经处理器"
+    },
+    "sLFvdD9v8CZcBZHx": {
+      "name": "毒素结合剂"
+    },
+    "sU1nWqZ0jiVj23KI": {
+      "name": "音频人声"
+    },
+    "sdZ9Y42VqL7ZT0CO": {
+      "name": "军用声纳"
+    },
+    "sdjWpAm3JLWVdXT4": {
+      "name": "皮下口袋"
+    },
+    "suHTIl4qGHMaVqkb": {
+      "name": "抓钩手"
+    },
+    "sx1PGl6gzLSZ18sn": {
+      "name": "戴纳拉尔内骨架（基础型）"
+    },
+    "t5GUlD7tDo5Z5JNy": {
+      "name": "数字录音链接"
+    },
+    "tDX55k41mQRLkCjA": {
+      "name": "榴弹发射器"
+    },
+    "tqiNgNkM2dRPcFzP": {
+      "name": "永久+3魅力属性值增加"
+    },
+    "tsY2j88C5WxOTbDG": {
+      "name": "超紧凑脑舞"
+    },
+    "txTtZM5zEibnsRTn": {
+      "name": "大指虎"
+    },
+    "tyrJCuKZ85jdTU4q": {
+      "name": "开膛手"
+    },
+    "tzo4a4ImtQvPoTXB": {
+      "name": "帮派爵士乐手"
+    },
+    "uBfr1F905NQhpKi4": {
+      "name": "生物机械赛博义肢"
+    },
+    "uQZcESdhS3mbmIUv": {
+      "name": "升级型皮肤编织 SP8"
+    },
+    "uaHin4PVl3Jozpbg": {
+      "name": "纳米光学升级"
+    },
+    "ueSRoaWxiIwijw8N": {
+      "name": "皮下颅骨护甲 SP6"
+    },
+    "v0dvoXxEXTfryxQ9": {
+      "name": "肢体灯"
+    },
+    "vIS7tLKn2knqwZYJ": {
+      "name": "闪光器"
+    },
+    "vVHAyFMjcBuErHEc": {
+      "name": "实时馈送光学组件"
+    },
+    "vb88mdUXvh8elNXn": {
+      "name": "轨道水晶赛博义肢"
+    },
+    "vfctuWRZxDfVxzV1": {
+      "name": "芯片植入槽"
+    },
+    "vocR1kjErjkN1eBR": {
+      "name": "瞬膜"
+    },
+    "vqVm5F0atIf1jbOr": {
+      "name": "追踪信标"
+    },
+    "w0MHVk5MBanY6qKi": {
+      "name": "分叉舌"
+    },
+    "w2XrdOLZB9ImxRrO": {
+      "name": "高级肌肉骨骼花边三型"
+    },
+    "w2cPu8afToHf2TtU": {
+      "name": "360度旋转关节"
+    },
+    "w6Hx0RMiAurszRXg": {
+      "name": "赛博听觉组件"
+    },
+    "wAGWZRb3afAZDYhj": {
+      "name": "迷你灯"
+    },
+    "wO5L7J2iuRHjXI7d": {
+      "name": "瞄准镜"
+    },
+    "wRsoa9oatHHcoz02": {
+      "name": "延伸犬齿"
+    },
+    "wiQqRW2m3TzpSRY3": {
+      "name": "增强听力：增强范围"
+    },
+    "wjnYaHhvxqvRoLs1": {
+      "name": "克伦齐科夫加速增效一型"
+    },
+    "wvu1woxJwNHmiPJ6": {
+      "name": "机械/技术链接"
+    },
+    "wxg2TlPOaXGPZ4km": {
+      "name": "运动探测器"
+    },
+    "wzRbn1ZyT4JHQ5au": {
+      "name": "Metaheme 血液学替代品"
+    },
+    "x3ERePPIEBJztGNa": {
+      "name": "湿式驱动器"
+    },
+    "x3bHNmrZaN3ZVssf": {
+      "name": "接口插头"
+    },
+    "x9IcgA1q0gwF4WDD": {
+      "name": "超人速度增效器"
+    },
+    "xJ8zXIZcgYBnDl6z": {
+      "name": "微型录音机链接"
+    },
+    "xSag7hBHp8mVQVBn": {
+      "name": "皮下躯干护甲 SP20"
+    },
+    "xYJeiaIBNYPhT4wU": {
+      "name": "音频/视频录制器"
+    },
+    "xjEN1CP0mkziRbgf": {
+      "name": "音量调节"
+    },
+    "xqcfjx7JIIOhMYol": {
+      "name": "皮下躯干护甲 SP12"
+    },
+    "xy6LzNXilhL1PaL4": {
+      "name": "链锯手"
+    },
+    "yIoiVXVXptR4AMB3": {
+      "name": "伪装皮肤"
+    },
+    "yOFBoZ9tV3czAW2B": {
+      "name": "热成像传感器"
+    },
+    "yg4T0QJQMlcfByWR": {
+      "name": "尖刺！家具：躯干"
+    },
+    "yuqPhcf7y667mTMx": {
+      "name": "人工肩部支架"
+    },
+    "z0FL3DOFp6JVUV87": {
+      "name": "加速大师"
+    },
+    "z3unj4w9y7CpJgOq": {
+      "name": "手电筒植入物"
+    },
+    "zDXFWASecNLRQRl1": {
+      "name": "视频摄像机/发射器"
+    },
+    "zDjkzk0dB05W8NU1": {
+      "name": "飞速子弹"
+    },
+    "zJXfw5MA5l14s0vN": {
+      "name": "科尔维特赛博义腿（基础型）"
+    },
+    "zLdEY8IWGXU8fgto": {
+      "name": "尖刺！家具：手臂"
+    },
+    "zOzfWnALVczrmjkZ": {
+      "name": "独立供气系统"
+    },
+    "zPOAWTqP6FIiQD9C": {
+      "name": "吸血鬼牙 - 鲨鱼齿特制"
+    },
+    "zY0TXkTvOXd9JMSO": {
+      "name": "水力支持水下护目镜"
+    },
+    "zdrDFGO5u7jUyfA0": {
+      "name": "光学接口"
+    },
+    "zlBiYh3NIlJ6QRcF": {
+      "name": "皮肤编织 SP12"
+    },
+    "zs6dGtm8ihVjLI7d": {
+      "name": "抗创伤"
+    }
+  }
+}
