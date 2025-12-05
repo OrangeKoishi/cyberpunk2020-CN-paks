@@ -1,16 +1,20 @@
 {
   "id": "cyberpunk2020-CN",
   "title": "cyberpunk2020-CN",
-  "description": "cyberpunk2020的汉化。",
+  "description": "<p>cyberpunk2020的合集包汉化。</p>",
   "authors": [
     {
-      "name": "OrangeRain"
+      "name": "OrangeRain",
+      "email": "craliptde@gmail.com",
+      "url": "https://github.com/OrangeKoishi/",
+      "discord": "orange_koishi",
+      "flags": {}
     }
   ],
   "version": "1.0.0",
   "compatibility": {
-    "minimum": 13,
-    "verified": 13.344
+    "minimum": "13",
+    "verified": "13.344"
   },
   "esmodules": [
     "register.js"
@@ -23,5 +27,7 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "url": "https://github.com/OrangeKoishi/cyberpunk2020-CN/",
+  "flags": {}
 }
